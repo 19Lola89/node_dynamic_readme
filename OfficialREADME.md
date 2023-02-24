@@ -1,24 +1,23 @@
 # node_dynamic_readme
 
+This project is focused on dynamically generating the read me file in markdown format using js, node and npm. 
 
-#Installation
+# Installation
 
 N/A
 
-#Usage
+# Usage
 
 Used for personal or work uses, to monitor the tasks.
 
-#Credits
+# Credits
 
 N/A
 
-#Credits
+# Credits
 
 MIT
 
-#Deployment link and video walkthrough
+# Video walkthrough
 
-https://github.com/19Lola89/daily_planner_app/edit/main/README.md
-
-URL: https://19lola89.github.io/daily_planner_app/
+# Repo URL 
