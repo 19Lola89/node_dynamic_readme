@@ -1,33 +1,33 @@
-# Dynamically Generated README file
+# README file generator
   ![GitHub](https://img.shields.io/github/license/19Lola89/node_dynamic_readme?color=blue&style=flat-square)
   
 
   ## Project Description
 
-  The motivation of the project is to show how to dynamically generate a README.md file using JS, Node.js and other tools.
+  The motivation of this project is to dinamically generate a  README file using JS , Ndode.js  and NPM .
 
   ## Table of Contents
 
  * [Description](#description)
  * [Installation](#installation)
  * [Usage](#usage)
- * [Contribution](#contribution)
- * [Credit](#credit)
+ * [Contribution](#contributions)
+ * [Credit](#credits)
  * [License](#license)
- * [Test instruction](#test)
+ * [Test](#test)
 
   ## Installation Instructions
 
-  In order to run the program the user will need to have Node.js and inquirer accessible.
+  Nothing is needed in terms of installation 
 
 
   ## Usage
 
-  N/A
+  Please refer to npom documentation and node.js
 
   ## Credits
 
-  N/A
+  It is a solo project
 
   ## License
   
@@ -35,20 +35,20 @@
 
   ## Features of the project
 
-  
+  The only feature is a a README file which you can read
 
   ## Test instructions
 
-  To test the program, open files in vs code, run index.js and start answering the questions, once it is done check README file and find your answers dynamically added to the document. 
+  test it by running the code and answering the prompt questions
 
   ## Contributions
 
-  N/A
+  I used shields.io for badges URL : https://shields.io/ ,NPM https://www.npmjs.com/package/inquirer#prompt 
 
   ## Github profile URL
 
-  https://github.com/19Lola89
+  https://github.com/19Lola89/
 
-[video walkthrough]()
+[video walkthrough](#https://www.awesomescreenshot.com/video/15225116?key=25074b217abe6e94fd45511f9763960b)
   
 

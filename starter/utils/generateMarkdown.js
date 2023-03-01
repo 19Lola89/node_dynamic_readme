@@ -13,10 +13,10 @@ function generateMarkdown(data) {
  * [Description](#description)
  * [Installation](#installation)
  * [Usage](#usage)
- * [Contribution](#contribution)
- * [Credit](#credit)
+ * [Contribution](#contributions)
+ * [Credit](#credits)
  * [License](#license)
- * [Test instruction](#test)
+ * [Test](#test)
 
   ## Installation Instructions
 
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 
   ${data.gitHub}
 
-[video walkthrough]()
+[video walkthrough](#https://www.awesomescreenshot.com/video/15225116?key=25074b217abe6e94fd45511f9763960b)
   
 
 `;
