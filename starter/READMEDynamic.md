@@ -1,1 +1,0 @@
-# node_dynamic_readme

@@ -1,12 +1,10 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.name}
+# Dynamically Generated README file
   ![GitHub](https://img.shields.io/github/license/19Lola89/node_dynamic_readme?color=blue&style=flat-square)
   
 
   ## Project Description
 
-  ${data.description}
+  The motivation of the project is to show how to dynamically generate a README.md file using JS, Node.js and other tools.
 
   ## Table of Contents
 
@@ -20,41 +18,37 @@ function generateMarkdown(data) {
 
   ## Installation Instructions
 
-  ${data.installation}
+  In order to run the program the user will need to have Node.js and inquirer accessible.
 
 
   ## Usage
 
-  ${data.usage}
+  N/A
 
   ## Credits
 
-  ${data.credits}
+  N/A
 
   ## License
   
-  This project is licensed under the terms of ${data.license} license. 
+  This project is licensed under the terms of MIT License license. 
 
   ## Features of the project
 
-  ${data.features}
+  
 
   ## Test instructions
 
-  ${data.test}
+  To test the program, open files in vs code, run index.js and start answering the questions, once it is done check README file and find your answers dynamically added to the document. 
 
   ## Contributions
 
-  ${data.contribution}
+  N/A
 
   ## Github profile URL
 
-  ${data.gitHub}
+  https://github.com/19Lola89
 
 [video walkthrough]()
   
 
-`;
-}
-
-module.exports = generateMarkdown;
