@@ -1,10 +1,10 @@
-# node_dynamic_readme
+# NODE DYNAMIC README FILE 
 
 This project is focused on dynamically generating the read me file in markdown format using js, node and npm. 
 
 # Installation
 
-N/A
+No need to install anything
 
 # Usage
 
@@ -14,10 +14,10 @@ Used for personal or work uses, to monitor the tasks.
 
 N/A
 
-# Credits
+# License
 
 MIT
 
-# Video walkthrough
+# Video walkthrough https://www.awesomescreenshot.com/video/15225116?key=25074b217abe6e94fd45511f9763960b
 
-# Repo URL 
+# Repo URL https://github.com/19Lola89/node_dynamic_readme/edit/main/
